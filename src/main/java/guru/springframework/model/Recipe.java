@@ -1,4 +1,4 @@
-package guru.springframework.domain;
+package guru.springframework.model;
 
 public class Recipe {
     private String description;
