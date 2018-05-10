@@ -6,5 +6,12 @@ public class Recipe {
     private Integer cookTime;
     private Integer servings;
     private String source;
+    private String url;
+    private String instructions;
+
+    private Byte[] image;
+
+    private Notes notes;
+
 }
 
